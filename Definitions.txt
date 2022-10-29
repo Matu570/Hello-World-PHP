@@ -1,0 +1,1 @@
+All PHP projects must be inside the www folder of wamp64
